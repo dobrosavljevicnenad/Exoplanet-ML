@@ -150,3 +150,4 @@ notebook/templates/*.html
 tmp/
 .idea
 .env
+data/exoplanet_cleaned.csv
