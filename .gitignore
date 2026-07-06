@@ -151,3 +151,6 @@ tmp/
 .idea
 .env
 data/exoplanet_cleaned.csv
+data/X*
+data/Y*
+models
